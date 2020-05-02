@@ -5,4 +5,6 @@ cd demo && yarn && npx webpack
 
 ### webpack-loader   a .css loader
 
-### wep
+### webpack-loader   自定义一个 markdown loader
+
+### webpack-plugin   移除多行注释的plugin
